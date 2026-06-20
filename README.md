@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td align="center">🏆</td>
-<td align="center"><b>FOUNDER & LEAD INSTRUCTOR @ TECH MINDS ACADEMY</b></td>
+<td align="center"><b>FOUNDER & LEAD INSTRUCTOR @ TECH MIND ACADEMY</b></td>
 <td align="center">🏆</td>
 </tr>
 </table>
@@ -454,14 +454,14 @@ motto: "Build. Secure. Scale. Automate. Teach. Repeat."
 
 ---
 
-## 🏫 Tech Minds Academy — Founded & Led by Amit Verma
+## 🏫 Tech Mind Academy — Founded & Led by Amit Verma
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                                ║
-║     🏆  T E C H   M I N D S   A C A D E M Y  🏆               ║
+║     🏆  T E C H   M I N D    A C A D E M Y  🏆               ║
 ║                                                                ║
 ║         Founded & Led by Amit Verma (ASP Verma)               ║
 ║      Empowering the Next Generation of Engineers              ║
