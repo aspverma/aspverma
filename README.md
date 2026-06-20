@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=%F0%9F%9A%80+Software+Engineer+%7C+System+Design+Architect;%F0%9F%A7%A0+AI+%2F+ML+%2F+LLM+Engineer+%26+Agentic+AI+Builder;%F0%9F%93%B1+React+Native+%26+Flutter+Specialist;%F0%9F%9B%A1%EF%B8%8F+Ethical+Hacker+%26+Cybersecurity+Expert;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+%2F+Platform+Engineer;%F0%9F%94%97+Web3+%26+Blockchain+Engineer;%F0%9F%A7%AA+QA+Automation+%7C+Selenium+%7C+Appium;%E2%9A%99%EF%B8%8F+AI+Workflow+Automation+%7C+n8n+%7C+Agents;%F0%9F%8F%AB+Founder+%40+Tech+Minds+Academy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=%F0%9F%9A%80+Software+Engineer+%7C+System+Design+Architect;%F0%9F%A7%A0+AI+%2F+ML+%2F+LLM+Engineer+%26+Agentic+AI+Builder;%F0%9F%93%B1+React+Native+%26+Flutter+Specialist;%F0%9F%9B%A1%EF%B8%8F+Ethical+Hacker+%26+Cybersecurity+Expert;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+%2F+Platform+Engineer;%F0%9F%94%97+Web3+%26+Blockchain+Engineer;%F0%9F%A7%AA+QA+Automation+%7C+Selenium+%7C+Appium;%E2%9A%99%EF%B8%8F+AI+Workflow+Automation+%7C+n8n+%7C+Agents;%F0%9F%8F%AB+Founder+%40+Tech+MIND+Academy" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,13 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=asp-verma&label=Profile+Views&color=00F5FF&style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/followers/asp-verma?label=Followers&style=for-the-badge&color=A78BFA&logo=github" />
   <img src="https://img.shields.io/badge/Open%20Source-Advocate-39FF14?style=for-the-badge&logo=open-source-initiative&logoColor=black" />
-  <img src="https://img.shields.io/badge/Founder-Tech%20Minds%20Academy-FF2E92?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Founder-Tech%20MIND%20Academy-FF2E92?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
 
 <table>
 <tr>
 <td align="center">🏆</td>
-<td align="center"><b>FOUNDER & LEAD INSTRUCTOR @ TECH MINDS ACADEMY</b></td>
+<td align="center"><b>FOUNDER & LEAD INSTRUCTOR @ TECH MIND ACADEMY</b></td>
 <td align="center">🏆</td>
 </tr>
 </table>
@@ -36,7 +36,7 @@ name: Amit Verma (ASP Verma)
 location: India 🇮🇳
 role: Software Engineer | System Design Architect | AI Engineer
 identity:
-  - Founder & Lead Instructor, Tech Minds Academy 🏫
+  - Founder & Lead Instructor, Tech MIND Academy 🏫
 focus:
   - High & Low Level System Design (HLD / LLD)
   - End-to-End Product Engineering (Web, Mobile, Cloud, AI)
@@ -454,7 +454,7 @@ motto: "Build. Secure. Scale. Automate. Teach. Repeat."
 
 ---
 
-## 🏫 Tech Minds Academy — Founded & Led by Amit Verma
+## 🏫 Tech MIND Academy — Founded & Led by Amit Verma
 
 <div align="center">
 
